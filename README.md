@@ -3,7 +3,7 @@ This experiment implements several of the most commonly used sorting algorithms,
 
 ## User guide
 
-### Compile:
+### Compilation:
  - javac * .java
 
 ### Run program:
@@ -31,6 +31,7 @@ This experiment implements several of the most commonly used sorting algorithms,
 | 10 000        | 210.93      | 81.17          | 27.87          | 2.37      | 1.75       | 1.13       | 1.66        | 1.11       |
 | 100 000       | 13455.47    | 3191.57        | 1442           | 11.49     | 14.79      | 7.06       | 29.68       | 6.29       |
 | 1 000 000     | 1641144     | 480601         | 152959         | 163.29    | 144.42     | 84.98      | 320.31      | 75.62      |
+
 
 ![Results](https://github.com/sverrbb/sorting-experiment/blob/main/Results.png)
 
