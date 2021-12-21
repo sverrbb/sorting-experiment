@@ -32,7 +32,7 @@ This experiment implements several of the most commonly used sorting algorithms,
 | 100 000       | 13455.47    | 3191.57        | 1442           | 11.49     | 14.79      | 7.06       | 29.68       | 6.29       |
 | 1 000 000     | 1641144     | 480601         | 152959         | 163.29    | 144.42     | 84.98      | 320.31      | 75.62      |
 
-![Results](https://github.com/sverrbb/sorting-experiment/blob/main/Runtime.png).png)
+![Results](https://github.com/sverrbb/sorting-experiment/blob/main/Runtime.png)
 
 The graph is displayed on a logarithmic scale to compress the scale and make the data easier to comprehend. The graph can be interpreted in such a way that the lowest lines visually show the fastest algorithms, while the highest lines represent the slowest algorithms.
 
